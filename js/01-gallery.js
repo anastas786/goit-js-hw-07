@@ -1,4 +1,8 @@
 import { galleryItems } from './gallery-items.js';
 // Change code below this line
 
-console.log(galleryItems);
+const container = document.querySelector('.gallery');
+
+
+console.log(container);
+// console.log(galleryItems);
